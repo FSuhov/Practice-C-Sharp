@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01AbstractFileHandler", "01AbstractFileHandler\01AbstractFileHandler.csproj", "{C31CB575-B419-4EAA-8B75-C0D355550560}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A5792FD-634D-4F03-B60F-3DE8CB1EA987}"
+	ProjectSection(SolutionItems) = preProject
+		Tasks.txt = Tasks.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Player", "02Player\02Player.csproj", "{D1562A49-4262-422E-ADE8-38AF175F99D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31CB575-B419-4EAA-8B75-C0D355550560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31CB575-B419-4EAA-8B75-C0D355550560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31CB575-B419-4EAA-8B75-C0D355550560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31CB575-B419-4EAA-8B75-C0D355550560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1562A49-4262-422E-ADE8-38AF175F99D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1562A49-4262-422E-ADE8-38AF175F99D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1562A49-4262-422E-ADE8-38AF175F99D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1562A49-4262-422E-ADE8-38AF175F99D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4543B00B-E257-4AD3-A45F-C8F2157C652E}
+	EndGlobalSection
+EndGlobal
